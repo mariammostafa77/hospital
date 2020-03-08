@@ -1,0 +1,13 @@
+div.one
+{
+color:black;
+direction:rtl;
+line-height:normal;
+text-alingn:right
+}
+div.m
+{
+border-width:1px;
+border-style:dashed;
+border-color:black;
+}
